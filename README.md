@@ -1,4 +1,4 @@
-#### STA 260 Project
+#### Image Analysis for Grinding Operations [STA 260 Project]
 
 #### By: Abdul-Hakeem Omotayo, Xiancheng Lin, and Xuezhen Li
 
